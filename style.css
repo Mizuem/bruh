@@ -194,8 +194,13 @@ ul.souv a{
 	font-weight: normal;
 	font-family: Arial;
 	text-align: left;
-	font-size: 15px;
+	font-size: 15px;	
 }
+
+ul.souv li{
+	padding-bottom: 10px;	
+}
+
 div.kont h2{
 	margin-top: 0px;
 	margin-bottom: 5px;
@@ -208,9 +213,16 @@ div.kont h2{
 div.xDDD h2{
 	margin-top: 0px;
 	margin-bottom: 0px;
-	padding-top: 20px;
 	font-family: Arial;
 	color: white;
+	font-style: normal;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+
+div.preh h2{
+	font-family: Arial;
+	color: #b15e23;
 	font-style: normal;
 	font-weight: normal;
 }
